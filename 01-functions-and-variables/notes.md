@@ -40,3 +40,9 @@ Float
 it is use take input in decimal point
 - round(): it is use to round the value as round(number[ ,ndigits])
 - also use as to roundoff: print(f"num:.2f")
+
+def
+- def key words is use to make a user defined functions
+- eg: def hello()
+-          print('hello')
+ Return keyword is use to return a value of defined functions
