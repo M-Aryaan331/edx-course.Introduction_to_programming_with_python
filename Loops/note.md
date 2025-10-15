@@ -29,3 +29,7 @@ len(): as above exaample,students is not range() function bacause it is notinteg
 As: for i in range(len(students))
     ....print(i,students[i])
 
+dict: is a type of data which have keys and values.
+- eg: students{'harry':'gryf','all':'gryf','gorge':'scylon'}
+- print(students['harry'])
+
